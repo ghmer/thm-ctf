@@ -1,5 +1,5 @@
 # tryhackme - mindgames
-This text is about the CTF Challenge **mindgames**, found on tryhackme.com.
+This text is about the CTF Challenge [**mindgames**, found on tryhackme.com.](https://tryhackme.com/room/mindgames)
 The description of this challenge is straight forward:
 
 `No hints. Hack it. Don't give up if you get stuck, enumerate harder`
@@ -261,4 +261,4 @@ thm{RETRACTED}
 ```
 
 ## Conclusion
-That was a fun challenge and more straightforward than the description implied.
+That was a fun challenge and more straightforward than the description implied. Thanks to the creator of this machine, looking forward to the next ones!
